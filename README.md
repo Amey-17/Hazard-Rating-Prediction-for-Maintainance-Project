@@ -1,5 +1,5 @@
 # Hazard-Rating-Prediction-for-Maintainance-Project
-A Machine Learning Predictive model building project. 
+A Machine Learning Predictive model building project for hazard rating predictions for a maintainance project. 
 
 All the money in the world can not make up for a loss of life. Better safe than sorry is the motto of
 all engineering and construction practices which routinely deal with dangerous situations.
